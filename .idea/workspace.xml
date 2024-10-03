@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo2/opdracht10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/opdracht11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/opdracht12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/opdracht13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo2/opdracht9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo2/opdracht3.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo2/opdracht3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +43,13 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.opdracht10.html.executor": "Run",
+    "JavaScript Debug.opdracht12.html.executor": "Run",
     "JavaScript Debug.opdracht3.html.executor": "Run",
     "JavaScript Debug.opdracht5.html.executor": "Run",
     "JavaScript Debug.opdracht6.html.executor": "Run",
     "JavaScript Debug.opdracht8.html.executor": "Run",
+    "JavaScript Debug.opdracht9.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -69,7 +77,8 @@
       <updated>1727782448895</updated>
       <workItem from="1727782449861" duration="3041000" />
       <workItem from="1727787620150" duration="17000" />
-      <workItem from="1727859847621" duration="4245000" />
+      <workItem from="1727859847621" duration="4512000" />
+      <workItem from="1727956479384" duration="1407000" />
     </task>
     <servers />
   </component>
