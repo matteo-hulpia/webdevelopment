@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/contactpage/contactpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extern/homepage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +40,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Opdracht123.html.executor": "Run",
+    "JavaScript Debug.contactpage.html.executor": "Run",
     "JavaScript Debug.homepage.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.labo2.html.executor": "Run",
@@ -81,7 +84,8 @@
       <workItem from="1727956479384" duration="1521000" />
       <workItem from="1728388456670" duration="3737000" />
       <workItem from="1728475285570" duration="627000" />
-      <workItem from="1728581946861" duration="2760000" />
+      <workItem from="1728581946861" duration="3014000" />
+      <workItem from="1728721044692" duration="1945000" />
     </task>
     <servers />
   </component>
