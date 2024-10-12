@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/contactpage/contactpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extern/homepage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/Opdracht123.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/Opdracht123.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,7 @@
     "JavaScript Debug.opdracht6.html.executor": "Run",
     "JavaScript Debug.opdracht8.html.executor": "Run",
     "JavaScript Debug.opdracht9.html.executor": "Run",
+    "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -85,7 +83,7 @@
       <workItem from="1728388456670" duration="3737000" />
       <workItem from="1728475285570" duration="627000" />
       <workItem from="1728581946861" duration="3014000" />
-      <workItem from="1728721044692" duration="1945000" />
+      <workItem from="1728721044692" duration="2251000" />
     </task>
     <servers />
   </component>
