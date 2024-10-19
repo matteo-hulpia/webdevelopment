@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo4/opdracht1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo4/opdracht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht5/hoofdpagina index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht5/pagina hobbys.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht5/pagina likes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -42,6 +43,7 @@
     "JavaScript Debug.Opdracht123.html.executor": "Run",
     "JavaScript Debug.contactpage.html.executor": "Run",
     "JavaScript Debug.homepage.html.executor": "Run",
+    "JavaScript Debug.hoofdpagina index.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.labo2.html.executor": "Run",
     "JavaScript Debug.labo3.html.executor": "Run",
@@ -56,6 +58,7 @@
     "JavaScript Debug.opdracht8.html.executor": "Run",
     "JavaScript Debug.opdracht9.html.executor": "Run",
     "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
+    "JavaScript Debug.pagina likes.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -90,7 +93,8 @@
       <workItem from="1728581946861" duration="3014000" />
       <workItem from="1728721044692" duration="2555000" />
       <workItem from="1728889366928" duration="19000" />
-      <workItem from="1729180978113" duration="2762000" />
+      <workItem from="1729180978113" duration="3167000" />
+      <workItem from="1729330299298" duration="931000" />
     </task>
     <servers />
   </component>
