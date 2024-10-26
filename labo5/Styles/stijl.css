@@ -1,0 +1,25 @@
+h1,h2,h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 2ex;
+}
+
+h2{
+    font-size: 2em;
+}
+
+p.p1{
+    color: red;
+}
+p.p2{
+    color: green;
+}
+p.p3{
+    color: blue;
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.2em;
+}
