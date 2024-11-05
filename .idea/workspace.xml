@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="" />
+    <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo6/opdracht3/Styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -32,39 +36,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Opdracht123.html.executor": "Run",
-    "JavaScript Debug.contactpage.html.executor": "Run",
-    "JavaScript Debug.homepage.html.executor": "Run",
-    "JavaScript Debug.hoofdpagina index.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.labo2.html.executor": "Run",
-    "JavaScript Debug.labo3.html.executor": "Run",
-    "JavaScript Debug.opdracht1.html.executor": "Run",
-    "JavaScript Debug.opdracht10.html.executor": "Run",
-    "JavaScript Debug.opdracht12.html.executor": "Run",
-    "JavaScript Debug.opdracht13.html.executor": "Run",
-    "JavaScript Debug.opdracht2.html.executor": "Run",
-    "JavaScript Debug.opdracht3.html.executor": "Run",
-    "JavaScript Debug.opdracht5.html.executor": "Run",
-    "JavaScript Debug.opdracht6.html.executor": "Run",
-    "JavaScript Debug.opdracht8.html.executor": "Run",
-    "JavaScript Debug.opdracht9.html.executor": "Run",
-    "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
-    "JavaScript Debug.pagina likes.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Opdracht123.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.contactpage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.homepage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.hoofdpagina index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.labo2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.labo3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht10.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht12.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht13.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht8.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht9.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opleidingsaanbod.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.pagina likes.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,6 +99,7 @@
       <workItem from="1729599145399" duration="2225000" />
       <workItem from="1729926487728" duration="24000" />
       <workItem from="1729935721355" duration="651000" />
+      <workItem from="1730811423657" duration="3312000" />
     </task>
     <servers />
   </component>

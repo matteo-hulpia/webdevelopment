@@ -1,0 +1,13 @@
+header, footer{
+    background-color: #2B2D42;
+    font-family: Helvetica sans-serif;
+    padding: 30px;
+    color: #8D99AE;
+    margin: 10px 0;
+}
+header h1,h2{
+    color: #EDF2F4;
+}
+header h1{
+    color: white;
+}
