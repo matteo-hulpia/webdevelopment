@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    text-align: left;
+}
+
+.single {
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 10px 0;
+}
+
+.multi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    border: 1px solid #000;
+    margin: 10px 0;
+    text-align: center;
+    flex-direction: column;
+}
