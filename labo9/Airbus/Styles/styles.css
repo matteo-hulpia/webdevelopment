@@ -1,0 +1,123 @@
+/* Algemene instellingen */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header.top {
+    height: 200px;
+    background-image: url('../images/bgsky3.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+    color: darkblue;
+}
+
+.top-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+}
+
+.sub-title {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.airplane {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    height: 120px;
+}
+
+.container {
+    display: flex;
+    margin: 20px;
+}
+
+.news {
+    width: 25%;
+    background-color: #ddd;
+    padding: 10px;
+    border-right: 2px solid #999;
+}
+
+.news-title {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+.main {
+    width: 75%;
+    padding: 0 10px;
+}
+
+.introduction {
+    margin-bottom: 20px;
+}
+
+.intro-logo {
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.photo {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.photo img {
+    max-width: 100%;
+    display: block;
+}
+
+footer.bottom {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.footer-block ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-block ul ul {
+    margin-top: 5px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: red;
+}
+
+div.copyright {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}

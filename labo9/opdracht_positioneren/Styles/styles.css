@@ -1,0 +1,22 @@
+article {
+    margin: 10px;
+    font-size: 1.25em;
+    overflow: hidden;
+    background-color: #f9f9f9;
+    border: 1px solid #656565;
+    padding: 10px;
+}
+
+article img {
+    max-width: 100%;
+    margin: 0 10px 10px 0;
+    float: left;
+}
+
+article:nth-child(even) img {
+    float: right;
+}
+
+article:nth-child(odd) img {
+    float: left;
+}
