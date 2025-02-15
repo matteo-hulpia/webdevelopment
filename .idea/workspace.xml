@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo12/opdracht2/Styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo12/opdracht2/opdracht2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/Airbus/Styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/Airbus/opdrachtAirbus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht_positioneren/Styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo9/opdracht_positioneren/positioneren.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "matteo-hulpia"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/matteo-hulpia/webdevelopment.git",
+    "accountId": "ec0dde5b-bc40-4991-828e-f34a37bbe93a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -132,6 +135,7 @@
       <workItem from="1736678823921" duration="41000" />
       <workItem from="1736678878080" duration="23000" />
       <workItem from="1736681289838" duration="605000" />
+      <workItem from="1739622578482" duration="171000" />
     </task>
     <servers />
   </component>
