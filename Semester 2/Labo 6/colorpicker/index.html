@@ -1,36 +1,24 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Kleurkiezer Demo</title>
-    <link rel="stylesheet" href="styles/styles.css">
+    <title>Demonstratie slider</title>
+    <script type="text/javascript" charset="utf-8" src="sciripts/script.js"></script>
+    <link rel="stylesheet" href="styles/styles.css"/>
 </head>
 <body>
+<section>
+    <label for="slider"></label>
+    <p>0<input id="slider" type="range" class="slider" value="128" min="0" max="255" />255 &nbsp; Red: <span id="red">128</span></p><br>
+    <label for="slider1"></label>
+    <p>0<input id="slider1" type="range" class="slider" value="255" min="0" max="255" />255 &nbsp; Green: <span id="green">255</span></p><br>
+    <label for="slider2"></label>
+    <p>0<input id="slider2" type="range" class="slider" value="128" min="0" max="255" />255 &nbsp; Blue: <span id="blue">128</span></p><br>
+</section>
+<div class="colorDemo"></div>
 
-<h2>Kies je kleur</h2>
+<button id="bewaarKleur">Save</button>
 
-<div class="sliderContainer">
-    <p>Rood: 0
-        <input type="range" id="sliderRood" class="slider" min="0" max="255" value="128">
-        255 &nbsp; <span id="roodWaarde">128</span>
-    </p>
+<div id="bewaardeKleuren"></div>
 
-    <p>Groen: 0
-        <input type="range" id="sliderGroen" class="slider" min="0" max="255" value="255">
-        255 &nbsp; <span id="groenWaarde">255</span>
-    </p>
-
-    <p>Blauw: 0
-        <input type="range" id="sliderBlauw" class="slider" min="0" max="255" value="128">
-        255 &nbsp; <span id="blauwWaarde">128</span>
-    </p>
-</div>
-
-<div class="voorbeeldKleur"></div>
-
-<button id="kleurOpslaan">Kleur opslaan</button>
-
-<section id="geschiedenisKleuren"></section>
-<script src="scripts/script.js" defer></script>
 </body>
 </html>

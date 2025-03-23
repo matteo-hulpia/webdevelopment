@@ -1,60 +1,58 @@
-window.addEventListener("DOMContentLoaded", init);
+const setup = () => {
+    const sliders = document.querySelectorAll(".slider");
+    const saveButton = document.getElementById("bewaarKleur");
 
-function init() {
-    const schuivers = document.querySelectorAll(".slider");
-    const opslaanKnop = document.getElementById("kleurOpslaan");
+    sliders.forEach(slider => {
+        slider.addEventListener("input", update);
+    });
+    saveButton.addEventListener("click", bewaarKleur);
 
-    schuivers.forEach(schuif => {
-        schuif.addEventListener("input", toonKleur);
+    update();
+};
+
+const update = () => {
+    const sliders = document.querySelectorAll(".slider");
+    const red = sliders[0].value;
+    const green = sliders[1].value;
+    const blue = sliders[2].value;
+    const colorDemo = document.querySelector(".colorDemo");
+
+    colorDemo.style.backgroundColor = `rgb(${red}, ${green}, ${blue})`;
+
+    document.getElementById("red").textContent = red;
+    document.getElementById("green").textContent = green;
+    document.getElementById("blue").textContent = blue;
+};
+
+const bewaarKleur = () => {
+    const sliders = document.querySelectorAll(".slider");
+    const colorDemo = document.querySelector(".colorDemo");
+    const color = colorDemo.style.backgroundColor;
+    const bewaardeKleuren = document.getElementById("bewaardeKleuren");
+
+    const swatch = document.createElement("div");
+    swatch.className = "swatch";
+    swatch.style.backgroundColor = color;
+
+    const rgbValues = color.match(/\d+/g);
+
+    swatch.addEventListener("click", () => {
+        sliders[0].value = rgbValues[0];
+        sliders[1].value = rgbValues[1];
+        sliders[2].value = rgbValues[2];
+        update();
     });
 
-    opslaanKnop.addEventListener("click", slaHuidigeKleurOp);
-
-    toonKleur();
-}
-
-function toonKleur() {
-    const schuivers = document.querySelectorAll(".slider");
-    const rood = schuivers[0].value;
-    const groen = schuivers[1].value;
-    const blauw = schuivers[2].value;
-
-    const kleurVak = document.querySelector(".voorbeeldKleur");
-    kleurVak.style.backgroundColor = `rgb(${rood}, ${groen}, ${blauw})`;
-
-    document.getElementById("roodWaarde").textContent = rood;
-    document.getElementById("groenWaarde").textContent = groen;
-    document.getElementById("blauwWaarde").textContent = blauw;
-}
-
-function slaHuidigeKleurOp() {
-    const schuivers = document.querySelectorAll(".slider");
-    const kleurVak = document.querySelector(".voorbeeldKleur");
-    const huidigeKleur = kleurVak.style.backgroundColor;
-
-    const lijst = document.getElementById("geschiedenisKleuren");
-
-    const nieuwBlok = document.createElement("div");
-    nieuwBlok.className = "kleurBlok";
-    nieuwBlok.style.backgroundColor = huidigeKleur;
-
-    const rgb = huidigeKleur.match(/\d+/g);
-
-    nieuwBlok.addEventListener("click", () => {
-        schuivers[0].value = rgb[0];
-        schuivers[1].value = rgb[1];
-        schuivers[2].value = rgb[2];
-        toonKleur();
+    const deleteBtn = document.createElement("button");
+    deleteBtn.textContent = "X";
+    deleteBtn.className = "deleteBtn";
+    deleteBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        swatch.remove();
     });
 
-    const verwijder = document.createElement("button");
-    verwijder.textContent = "X";
-    verwijder.className = "verwijderKnop";
-    verwijder.addEventListener("click", (event) => {
-        event.stopPropagation();
-        nieuwBlok.remove();
-    });
+    swatch.appendChild(deleteBtn);
+    bewaardeKleuren.appendChild(swatch);
+};
 
-    nieuwBlok.appendChild(verwijder);
-    lijst.appendChild(nieuwBlok);
-}
+window.addEventListener("DOMContentLoaded", setup);

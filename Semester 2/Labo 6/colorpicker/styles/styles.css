@@ -1,55 +1,54 @@
-body {
-    margin: 15px;
-    padding: 15px;
-    width: 40%;
-    height: auto;
+body{
+    width: 35%;
+    height: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.colorDemo {
+    width:100px;
+    height:100px;
+    border:1px solid black;
+    position:relative;
+    left: 300px;
+    bottom: 170px;
+    padding: 0;
 }
 
-.sliderContainer {
-    border: 3px solid #d3d3d3;
-    border-radius: 12px;
-    padding: 12px;
+section{
+    border: 3px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0;
     height: 190px;
-    margin: 0;
 }
 
-.voorbeeldKleur {
-    width: 100px;
-    height: 100px;
-    border: 1px solid #000;
-    position: absolute;
-    left: 300px;
-    top: 40px;
-    margin: 0;
-}
-
-#kleurOpslaan {
+#bewaarKleur {
+    margin-top: 130px;
     display: block;
-    margin-top: 140px;
-    position: absolute;
-    left: 300px;
-    top: 160px;
 }
-
-#geschiedenisKleuren {
-    margin-top: 25px;
+#savedColors {
+    margin-top: 20px;
 }
-
-.kleurBlok {
+.swatch {
     width: 100px;
     height: 75px;
-    margin: 6px;
-    display: inline-block;
     position: relative;
-    top: -200px;
+    bottom: 200px;
+    display: inline-block;
+    margin: 5px;
 }
-
-.verwijderKnop {
-    background-color: red;
-    color: #fff;
-    border: none;
-    cursor: pointer;
+.deleteBtn {
     position: absolute;
     top: 5px;
     right: 5px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#bewaarKleur {
+    position: relative;
+    left: 300px;
+    bottom: 270px;
 }
