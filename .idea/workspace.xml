@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="" />
+    <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/de en het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/de en het/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/trigrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 5/trigrams/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/colorpicker/sciripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/colorpicker/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht1/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht2/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 6/opdracht3/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +34,25 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "matteo-hulpia"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;matteo-hulpia&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/matteo-hulpia/webdevelopment.git",
-    "accountId": "ec0dde5b-bc40-4991-828e-f34a37bbe93a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/matteo-hulpia/webdevelopment.git&quot;,
+    &quot;accountId&quot;: &quot;ec0dde5b-bc40-4991-828e-f34a37bbe93a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -83,11 +103,13 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\webdevelopment\Semester 2\Labo 6\colorpicker" />
       <recent name="C:\GitHub\webdevelopment\labo12\opdracht2\Styles" />
     </key>
   </component>
@@ -136,6 +158,14 @@
       <workItem from="1736678878080" duration="23000" />
       <workItem from="1736681289838" duration="605000" />
       <workItem from="1739622578482" duration="171000" />
+      <workItem from="1741776728802" duration="3802000" />
+      <workItem from="1742374319723" duration="42000" />
+      <workItem from="1742375554709" duration="5000" />
+      <workItem from="1742375835728" duration="401000" />
+      <workItem from="1742378552846" duration="2540000" />
+      <workItem from="1742459503707" duration="602000" />
+      <workItem from="1742665098690" duration="18000" />
+      <workItem from="1742721042228" duration="1169000" />
     </task>
     <servers />
   </component>
