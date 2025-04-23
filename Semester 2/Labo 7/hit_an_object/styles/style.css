@@ -1,0 +1,14 @@
+#playField{
+    height: 600px;
+    width: 800px;
+    position: relative;
+}
+
+#playField img{
+    width: 48px;
+    height: 48px;
+    position: absolute;
+}
+#target {
+    position: absolute;
+}

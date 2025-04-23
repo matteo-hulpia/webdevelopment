@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea89ad21-b8b4-4971-9a62-d8d3eebe104c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/colorpicker/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester 2/Labo 9/vragen/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester 2/Labo 6/colorpicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Semester 2/Labo 6/colorpicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -48,50 +52,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Opdracht123.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.cocktail.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.contactpage.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.exercise1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.homepage.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hoofdpagina index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.labo2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.labo3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.nature_blog.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht10.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht12.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht13.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht8.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht9.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdrachtAirbus.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opleidingsaanbod.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.pagina likes.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.positioneren.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.resume.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/untitled&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Opdracht123.html.executor": "Run",
+    "JavaScript Debug.cocktail.html.executor": "Run",
+    "JavaScript Debug.contactpage.html.executor": "Run",
+    "JavaScript Debug.exercise1.html.executor": "Run",
+    "JavaScript Debug.homepage.html.executor": "Run",
+    "JavaScript Debug.hoofdpagina index.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.labo2.html.executor": "Run",
+    "JavaScript Debug.labo3.html.executor": "Run",
+    "JavaScript Debug.nature_blog.html.executor": "Run",
+    "JavaScript Debug.opdracht1.html.executor": "Run",
+    "JavaScript Debug.opdracht10.html.executor": "Run",
+    "JavaScript Debug.opdracht12.html.executor": "Run",
+    "JavaScript Debug.opdracht13.html.executor": "Run",
+    "JavaScript Debug.opdracht2.html.executor": "Run",
+    "JavaScript Debug.opdracht3.html.executor": "Run",
+    "JavaScript Debug.opdracht4.html.executor": "Run",
+    "JavaScript Debug.opdracht5.html.executor": "Run",
+    "JavaScript Debug.opdracht6.html.executor": "Run",
+    "JavaScript Debug.opdracht7.html.executor": "Run",
+    "JavaScript Debug.opdracht8.html.executor": "Run",
+    "JavaScript Debug.opdracht9.html.executor": "Run",
+    "JavaScript Debug.opdrachtAirbus.html.executor": "Run",
+    "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
+    "JavaScript Debug.pagina likes.html.executor": "Run",
+    "JavaScript Debug.positioneren.html.executor": "Run",
+    "JavaScript Debug.resume.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/GitHub/webdevelopment/Semester 2/Labo 9",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\webdevelopment\Semester 2\Labo 9" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\webdevelopment\Semester 2\Labo 6\colorpicker" />
       <recent name="C:\GitHub\webdevelopment\labo12\opdracht2\Styles" />
@@ -151,6 +158,9 @@
       <workItem from="1742665098690" duration="18000" />
       <workItem from="1742721042228" duration="1398000" />
       <workItem from="1742722736817" duration="16000" />
+      <workItem from="1742984338437" duration="4879000" />
+      <workItem from="1744278738095" duration="1011000" />
+      <workItem from="1745397735293" duration="3699000" />
     </task>
     <servers />
   </component>
